@@ -1,0 +1,15 @@
+DISM /online /Set-Edition:ServerStandard /ProductKey:D2N9P-3P6X9-2R39C-7RTCD-MDVJX /AcceptEula
+slmgr /skms kms.digiboy.ir
+slmgr /ato
+
+DISM /online /Get-CurrentEdition
+
+https://docs.ovh.com/asia/en/dedicated/windows-key/
+https://learn.microsoft.com/en-us/DeployOffice/vlactivation/gvlks
+
+https://github.com/dylanbai8/kmspro
+https://github.com/ikxin/kms-tools
+
+https://v0v.bid/
+https://github.com/abbodi1406/KMS_VL_ALL_AIO
+https://github.com/Wind4/vlmcsd
